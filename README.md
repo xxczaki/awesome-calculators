@@ -23,6 +23,7 @@
 - [in-line calculator (AutoHotkey Calculator)](https://github.com/davebrny/in-line-calculator)
 - [Windows 10 Calculator by Microsoft](https://www.microsoft.com/en-us/store/p/windows-calculator/9wzdncrfhvn5)
 - [Old Windows 7/8 Calculator in Windows 10](https://winaero.com/download.php?view.1795)
+- [GraphCal](http://www.graphcalc.com/)
 
 ### Mac
 - [Numi](https://numi.io/)
