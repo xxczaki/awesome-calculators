@@ -32,7 +32,9 @@
 - [EdenMath 1.2.1 : Scientific Calculator](http://www.edenwaith.com/products/edenmath/)
 
 ### Linux
-No Awesome Calculators only for Linux :(
+- [Galculator](https://github.com/galculator/galculator)
+- [KCalc](https://github.com/KDE/kcalc)
+
 
 ### Cross-Platform
 - [Simple Electron Calculator](https://github.com/DCKT/electron-calculator)
