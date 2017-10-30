@@ -41,6 +41,16 @@ No Awesome Calculators only for Linux :(
 - [Liri Calculator](https://liri.io/apps/calculator/)
 
 ### Web
+- [Web 2.0 Scientific Calculator](http://web2.0calc.com/)
+- [Calculator.js](https://material-calculator.netlify.com/)
+- [Last Calc](http://lastcalc.com/)
+- [Notepad Calculator](http://notepadcalculator.com/)
+- [BeanCounter](https://josephlewis.net/apps/BeanCounter/)
+- [Symbolab Math Solver - Step by Step Calculator](https://www.symbolab.com/)
+- [Wolfram|Alpha (not only a calculator)](https://www.wolframalpha.com/)
+
+
+
 
 
 
