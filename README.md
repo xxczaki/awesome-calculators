@@ -17,6 +17,7 @@
 - [Samsung Calculator](https://play.google.com/store/apps/details?id=com.sec.android.app.popupcalculator&hl=en)
 - [Photomath (Camera Calculator)](https://play.google.com/store/apps/details?id=com.microblink.photomath&hl=en)
 - [MyScript Calculator (Drawing Calculator)](https://play.google.com/store/apps/details?id=com.visionobjects.calculator&hl=en)
+- [RealCalc](https://play.google.com/store/apps/details?id=uk.co.nickfines.RealCalc&hl=en)
 
 ### Windows
 - [HiPER Scientific Calculator (Windows Edition)](http://hiperdevelopment.wixsite.com/hipercalc)
