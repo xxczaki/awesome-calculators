@@ -5,7 +5,7 @@
 
 > A curated list of calculators, for every platform!
 
-## Platforms
+## Contents
 - [Android](#android)
 - [Windows](#windows)
 - [Mac](#mac)
