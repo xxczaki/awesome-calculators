@@ -11,47 +11,45 @@
 - [Web](#web)
 
 ### Android
-- [HiPER Scientific Calculator](https://play.google.com/store/apps/details?id=cz.hipercalc&hl=en)
-- [Calculator ++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator&hl=en)
-- [Google Calculator](https://play.google.com/store/apps/details?id=com.google.android.calculator&hl=en)
-- [Samsung Calculator](https://play.google.com/store/apps/details?id=com.sec.android.app.popupcalculator&hl=en)
-- [Photomath (Camera Calculator)](https://play.google.com/store/apps/details?id=com.microblink.photomath&hl=en)
-- [MyScript Calculator (Drawing Calculator)](https://play.google.com/store/apps/details?id=com.visionobjects.calculator&hl=en)
-- [RealCalc](https://play.google.com/store/apps/details?id=uk.co.nickfines.RealCalc&hl=en)
+- [HiPER Scientific Calculator](https://play.google.com/store/apps/details?id=cz.hipercalc&hl=en) - Advanced scientific calculator, with lots of features, for example result history and themes.
+- [Calculator ++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator&hl=en) - Scientific calculator with modern, Google Material Design interface.
+- [Google Calculator](https://play.google.com/store/apps/details?id=com.google.android.calculator&hl=en) - Official calculator from Google.
+- [Samsung Calculator](https://play.google.com/store/apps/details?id=com.sec.android.app.popupcalculator&hl=en) - New, official calculator from Samsung.
+- [Photomath (Camera Calculator)](https://play.google.com/store/apps/details?id=com.microblink.photomath&hl=en) - Calculate math problems using camera.
+- [MyScript Calculator (Drawing Calculator)](https://play.google.com/store/apps/details?id=com.visionobjects.calculator&hl=en) - Perform mathematical operations naturally using your handwriting.
+- [RealCalc](https://play.google.com/store/apps/details?id=uk.co.nickfines.RealCalc&hl=en) - Scientific calculator with realistic interface.
 
 ### Windows
-- [HiPER Scientific Calculator (Windows Edition)](http://hiperdevelopment.wixsite.com/hipercalc)
-- [in-line calculator (AutoHotkey Calculator)](https://github.com/davebrny/in-line-calculator)
-- [Windows 10 Calculator by Microsoft](https://www.microsoft.com/en-us/store/p/windows-calculator/9wzdncrfhvn5)
-- [Old Windows 7/8 Calculator in Windows 10](https://winaero.com/download.php?view.1795)
-- [GraphCal](http://www.graphcalc.com/)
+- [HiPER Scientific Calculator (Windows Edition)](http://hiperdevelopment.wixsite.com/hipercalc) - Advanced scientific calculator with lots of features.
+- [in-line calculator (AutoHotkey Calculator)](https://github.com/davebrny/in-line-calculator) - An interface-less calculator for Windows that lets you do basic math without having to leave the line you're typing on.
+- [Windows 10 Calculator by Microsoft](https://www.microsoft.com/en-us/store/p/windows-calculator/9wzdncrfhvn5) - Official Microsoft calculator for Windows 10.
+- [Old Windows 7/8 Calculator in Windows 10](https://winaero.com/download.php?view.1795) - An opportunity to use old Windows 7/8 calculator in Windows 10.
+- [GraphCal](http://www.graphcalc.com/) - Professional calculator with unique features.
 
 ### Mac
-- [Numi](https://numi.io/)
-- [Soulver](http://www.acqualia.com/soulver/)
-- [Calculator + ƒ](https://www.phnsft.com/products/calculator/)
-- [EdenMath 1.2.1 : Scientific Calculator](http://www.edenwaith.com/products/edenmath/)
+- [Numi](https://numi.io/) - Beautiful calculator with great features, including unit & time zone conversion.
+- [Soulver](http://www.acqualia.com/soulver/) - Do basic math operations using modern, clean interface without buttons.
+- [Calculator + ƒ](https://www.phnsft.com/products/calculator/) - Powerful, extensible calculator for the Mac.
+- [EdenMath 1.2.1 : Scientific Calculator](http://www.edenwaith.com/products/edenmath/) - Open source scientific calculator for Mac. 
 
 ### Linux
-- [Galculator](https://github.com/galculator/galculator)
-- [KCalc](https://github.com/KDE/kcalc)
+- [Galculator](https://github.com/galculator/galculator) - GTK 2  / GTK 3 based scientific calculator.
+- [KCalc](https://github.com/KDE/kcalc) - Calculator which offers many more mathematical functions than meet the eye on a first glance.
 
 
 ### Cross-Platform
-- [Simple Electron Calculator](https://github.com/DCKT/electron-calculator)
-- [elcalc](https://github.com/xxczaki/elcalc)
-- [Material Design Calculator](https://github.com/lirios/calculator)
-- [SpeedCrunch](http://www.speedcrunch.org/)
-- [Liri Calculator](https://liri.io/apps/calculator/)
+- [Simple Electron Calculator](https://github.com/DCKT/electron-calculator) - Basic, cross-platform calculator made with Electron.
+- [elcalc](https://github.com/xxczaki/elcalc) - Calculator with simple & beautiful interface.
+- [Material Design Calculator](https://github.com/lirios/calculator) - A cross-platform material design calculator.
+- [SpeedCrunch](http://www.speedcrunch.org/) - High-precision scientific calculator featuring a fast, keyboard-driven user interface.
+- [Liri Calculator](https://liri.io/apps/calculator/) - Cross-platform, Material Design calculator with all the features you would expect from a modern calculator.
 
 ### Web
-- [Web 2.0 Scientific Calculator](http://web2.0calc.com/)
-- [Calculator.js](https://material-calculator.netlify.com/)
-- [Last Calc](http://lastcalc.com/)
-- [Notepad Calculator](http://notepadcalculator.com/)
-- [BeanCounter](https://josephlewis.net/apps/BeanCounter/)
-- [Symbolab Math Solver - Step by Step Calculator](https://www.symbolab.com/)
-- [Wolfram|Alpha (not only a calculator)](https://www.wolframalpha.com/)
+- [Wolfram|Alpha)](https://www.wolframalpha.com/) - Computational knowledge engine
+- [Web 2.0 Scientific Calculator](http://web2.0calc.com/) - Online calculator, that provides basic and advanced mathematical functions useful for school or college.
+- [Calculator.js](https://material-calculator.netlify.com/) - Open-Source, web calculator with beautiful Google Material Design interface.
+- [Notepad Calculator](http://notepadcalculator.com/) - Calculator with user-friendly, unique notepad interface.
+- [BeanCounter](https://josephlewis.net/apps/BeanCounter/) - Fast web calculator, that will show you representation of your math problem.
 
 
 
