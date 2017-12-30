@@ -2,6 +2,7 @@
 <h1 align="center">
 <a href="https://github.com/xxczaki/awesome-calculators"><img src="https://i.imgur.com/TLDdKbUg.png" alt="Awesome Calculators"></a>
 </h1>
+
 > A curated list of calculators, for every platform!
 
 ## Platforms
