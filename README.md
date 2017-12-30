@@ -1,5 +1,7 @@
 # Awesome Calculators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+# [<img src="https://i.imgur.com/TLDdKbUg.png">](https://github.com/xxczaki/awesome-calculators)
+
 > A curated list of calculators, for every platform!
 
 ## Platforms
