@@ -24,9 +24,9 @@
 
 ### Windows
 - [HiPER Scientific Calculator (Windows Edition)](http://hiperdevelopment.wixsite.com/hipercalc) - Advanced scientific calculator with lots of features.
-- [in-line calculator (AutoHotkey Calculator)](https://github.com/davebrny/in-line-calculator) - An interface-less calculator for Windows that lets you do basic math without having to leave the line you're typing on.
+- [in-line calculator (AutoHotkey Calculator)](https://github.com/davebrny/in-line-calculator) - Interface-less calculator for Windows that lets you do basic math without having to leave the line you're typing on.
 - [Windows 10 Calculator by Microsoft](https://www.microsoft.com/en-us/store/p/windows-calculator/9wzdncrfhvn5) - Official Microsoft calculator for Windows 10.
-- [Old Windows 7/8 Calculator in Windows 10](https://winaero.com/download.php?view.1795) - An opportunity to use old Windows 7/8 calculator in Windows 10.
+- [Old Windows 7/8 Calculator in Windows 10](https://winaero.com/download.php?view.1795) - Opportunity to use old Windows 7/8 calculator in Windows 10.
 - [GraphCal](http://www.graphcalc.com/) - Professional calculator with unique features.
 
 ### Mac
@@ -43,7 +43,7 @@
 ### Cross-Platform
 - [Simple Electron Calculator](https://github.com/DCKT/electron-calculator) - Basic, cross-platform calculator made with Electron.
 - [elcalc](https://github.com/xxczaki/elcalc) - Calculator with simple & beautiful interface.
-- [Material Design Calculator](https://github.com/lirios/calculator) - A cross-platform material design calculator.
+- [Material Design Calculator](https://github.com/lirios/calculator) - Cross-platform material design calculator.
 - [SpeedCrunch](http://www.speedcrunch.org/) - High-precision scientific calculator featuring a fast, keyboard-driven user interface.
 - [Liri Calculator](https://liri.io/apps/calculator/) - Cross-platform, Material Design calculator with all the features you would expect from a modern calculator.
 
