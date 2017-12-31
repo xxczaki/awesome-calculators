@@ -33,7 +33,6 @@
 - [Numi](https://numi.io/) - Beautiful calculator with great features, including unit & time zone conversion.
 - [Soulver](http://www.acqualia.com/soulver/) - Do basic math operations using modern, clean interface without buttons.
 - [Calculator + ƒ](https://www.phnsft.com/products/calculator/) - Powerful, extensible calculator for the Mac.
-- [EdenMath 1.2.1 : Scientific Calculator](http://www.edenwaith.com/products/edenmath/) - Open source scientific calculator for Mac. 
 
 ### Linux
 - [Galculator](https://github.com/galculator/galculator) - GTK 2  / GTK 3 based scientific calculator.
