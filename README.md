@@ -45,6 +45,7 @@
 - [Material Design Calculator](https://github.com/lirios/calculator) - Cross-platform material design calculator.
 - [SpeedCrunch](http://www.speedcrunch.org/) - High-precision scientific calculator featuring a fast, keyboard-driven user interface.
 - [Liri Calculator](https://liri.io/apps/calculator/) - Cross-platform, Material Design calculator with all the features you would expect from a modern calculator.
+- [mdlt](https://github.com/metadelta/mdlt) - Command-line utility for quick math.
 
 ### Web
 - [Wolfram|Alpha](https://www.wolframalpha.com/) - Computational knowledge engine.
