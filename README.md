@@ -65,7 +65,7 @@
 ## Resources
 
 ### Communities
-- [Calculators Subreddit] - The place to share tips, tricks, and games regarding graphing or high powered calculators.
+- [Calculators Subreddit](https://www.reddit.com/r/calculators/) - The place to share tips, tricks, and games regarding graphing or high powered calculators.
 - [Mathematics Stack Exchange](https://math.stackexchange.com/) - Great place to ask questions about math.
 
 ### Tutorials
