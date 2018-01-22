@@ -5,13 +5,17 @@
 > A curated list of resources related to calculators!
 
 ## Contents
-- [Calculator apps](#packages)
+- [Calculator apps](#calculator-apps)
   - [Android](#android)
   - [Windows](#windows)
   - [Mac](#mac)
   - [Linux](#linux)
   - [Cross-Platform](#cross-platform)
   - [Web](#web)
+- [Resources](#resources)
+  - [Communities](#communities)
+  
+  ---
   
 ## Calculator apps:
 
