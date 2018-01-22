@@ -15,6 +15,7 @@
 - [Resources](#resources)
   - [Communities](#communities)
   - [Tutorials](#tutorials)
+  - [Videos](#videos)
   
   ---
   
@@ -73,8 +74,18 @@
 - [Calculator in C++ using switch...case](https://www.programiz.com/cpp-programming/examples/calculator-switch-case)
 - [Simple calculator in Python](https://www.programiz.com/python-programming/examples/calculator)
 
+### Videos
+- [Arthur Benjamin - Faster than a calculator](https://www.youtube.com/watch?v=e4PTvXtz4GM)
+- [Tricks for your calculator](https://www.youtube.com/watch?v=3GfuVDtGhWo)
+- [How to use scientific calculator?](https://www.youtube.com/watch?v=3GfuVDtGhWo)
+- [Scott Flansburg, the human calculator](https://www.youtube.com/watch?v=WhtvLpi8Z1M)
 
+---
 
+## License
 
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Antoni Kepinski](https://akepinski.me) has waived all copyright and related or neighboring rights to this work.
 
 
