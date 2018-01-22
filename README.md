@@ -1,6 +1,6 @@
 # Awesome Calculators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <h1 align="center">
-<a href="https://github.com/xxczaki/awesome-calculators"><img src="https://i.imgur.com/TLDdKbUg.png" alt="Awesome Calculators"></a>
+[<img src="https://i.imgur.com/9q98DcX.png" align="right" width="250">](https://github.com/xxczaki/awesome-calculators)
 </h1>
 
 > A curated list of calculators, for every platform!
