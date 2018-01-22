@@ -14,6 +14,7 @@
   - [Web](#web)
 - [Resources](#resources)
   - [Communities](#communities)
+  - [Tutorials](#tutorials)
   
   ---
   
@@ -52,6 +53,7 @@
 - [SpeedCrunch](http://www.speedcrunch.org/) - High-precision scientific calculator featuring a fast, keyboard-driven user interface.
 - [Liri Calculator](https://liri.io/apps/calculator/) - Cross-platform, Material Design calculator with all the features you would expect from a modern calculator.
 - [mdlt](https://github.com/metadelta/mdlt) - Command-line utility for quick math.
+- [calc](https://github.com/alfredxing/calc) - Simple, fast and intuitive command-line calculator written in Go.
 
 ### Web
 - [Wolfram|Alpha](https://www.wolframalpha.com/) - Computational knowledge engine.
@@ -60,6 +62,16 @@
 - [Notepad Calculator](http://notepadcalculator.com/) - Calculator with user-friendly, unique notepad interface.
 - [BeanCounter](https://josephlewis.net/apps/BeanCounter/) - Fast web calculator, that will show you representation of your math problem.
 
+## Resources
+
+### Communities
+- [Calculators Subreddit] - The place to share tips, tricks, and games regarding graphing or high powered calculators.
+- [Mathematics Stack Exchange](https://math.stackexchange.com/) - Great place to ask questions about math.
+
+### Tutorials
+- [Simple calculator app using React & Node.js](https://www.codementor.io/azeezolaniran2016/a-simple-calculator-app-using-react-and-node-a0ubeooxk)
+- [Calculator in C++ using switch...case](https://www.programiz.com/cpp-programming/examples/calculator-switch-case)
+- [Simple calculator in Python](https://www.programiz.com/python-programming/examples/calculator)
 
 
 
