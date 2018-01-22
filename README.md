@@ -2,15 +2,18 @@
 
 [<img src="https://i.imgur.com/9q98DcX.png" align="right" width="250">](https://github.com/xxczaki/awesome-calculators)
 
-> A curated list of calculators, for every platform!
+> A curated list of resources related to calculators!
 
 ## Contents
-- [Android](#android)
-- [Windows](#windows)
-- [Mac](#mac)
-- [Linux](#linux)
-- [Cross-Platform](#cross-platform)
-- [Web](#web)
+- [Calculator apps](#packages)
+  - [Android](#android)
+  - [Windows](#windows)
+  - [Mac](#mac)
+  - [Linux](#linux)
+  - [Cross-Platform](#cross-platform)
+  - [Web](#web)
+  
+## Calculator apps:
 
 ### Android
 - [HiPER Scientific Calculator](https://play.google.com/store/apps/details?id=cz.hipercalc&hl=en) - Advanced scientific calculator, with lots of features, for example result history and themes.
