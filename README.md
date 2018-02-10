@@ -4,6 +4,8 @@
 
 > A curated list of resources related to calculators!
 
+Is your project mentioned in this list? See [mentioned.md](https://github.com/xxczaki/awesome-calculators/blob/master/mentioned.md)!
+
 ## Contents
 - [Calculator apps](#calculator-apps)
   - [Android](#android)
