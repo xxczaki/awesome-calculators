@@ -1,6 +1,6 @@
 # Awesome mentioned badge
 
-If your project is mentioned in [Awesome Calculators](https://github.com/xxczaki/awesome-calculators), I encourage you do include this badge in your README.md file:
+If your project is mentioned in [Awesome Calculators](https://github.com/xxczaki/awesome-calculators), I encourage you to include this badge in your README.md file:
 
 [![Mentioned in Awesome Calculators](https://awesome.re/mentioned-badge.svg)](https://github.com/xxczaki/awesome-calculators)
 
