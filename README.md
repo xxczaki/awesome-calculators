@@ -59,6 +59,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Liri Calculator](https://liri.io/apps/calculator/) - Cross-platform, Material Design calculator with all the features you would expect from a modern calculator.
 - [mdlt](https://github.com/metadelta/mdlt) - Command-line utility for quick math.
 - [calc](https://github.com/alfredxing/calc) - Simple, fast and intuitive command-line calculator written in Go.
+- [J# Calculator Barebones](https://github.com/KrzysztofSzewczyk/JSharpCalculator) - Very simple calculator written in J#. Made as program for J# newcomers to extend and learn from.
 
 ### Web
 - [Wolfram|Alpha](https://www.wolframalpha.com/) - Computational knowledge engine.
