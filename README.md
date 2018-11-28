@@ -33,6 +33,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [RealCalc](https://play.google.com/store/apps/details?id=uk.co.nickfines.RealCalc&hl=en) - Scientific calculator with realistic interface.
 - [a41cv](https://play.google.com/store/apps/details?id=dk.andsen.hp41&hl=en) - Excellent emulation of the classic [HP-41CV](http://www.hpmuseum.org/hp41.htm) calculator.
 - [Wabbitemu](https://play.google.com/store/apps/details?id=com.Revsoft.Wabbitemu&hl=en) - Emulate Texas Instruments graphing calculators on your device.
+- [Droid48 (src)](https://github.com/shagr4th/droid48/tree/master/app/src/main),[Droid48 (app)](https://play.google.com/store/apps/details?id=org.ab.x48) - Android port of x48, the awesome HP48GX/SX emulator
 
 ### Windows
 - [HiPER Scientific Calculator (Windows Edition)](http://hiperdevelopment.wixsite.com/hipercalc) - Advanced scientific calculator with lots of features.
@@ -49,7 +50,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 ### Linux
 - [Galculator](https://github.com/galculator/galculator) - GTK 2  / GTK 3 based scientific calculator.
 - [KCalc](https://github.com/KDE/kcalc) - Calculator which offers many more mathematical functions than meet the eye on a first glance.
-
+- [x48](https://github.com/gwenhael-le-moine/x48) - Emulate the HP48GX/SX, one of the best engineering calculators ever.
 
 ### Cross-Platform
 - [Simple Electron Calculator](https://github.com/DCKT/electron-calculator) - Basic, cross-platform calculator made with Electron.
