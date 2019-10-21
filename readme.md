@@ -37,6 +37,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Scalar](https://scalarmath.org/) - Powerful math engine and math scripting language, that combines the simplicity of standard calculators with the flexibility of scripting.
 
 ### Windows
+- [Microsoft Mathematics](http://www.microsoft.com/download/details.aspx?id=15702) - Microsoft Mathematics provides a graphing calculator that plots in 2D and 3D, step-by-step equation solving, and useful tools to help students with math and science studies.
 - [Windows Calculator](https://github.com/Microsoft/calculator) - Simple yet powerful calculator that ships with Windows
 - [HiPER Scientific Calculator (Windows Edition)](http://hiperdevelopment.wixsite.com/hipercalc) - Advanced scientific calculator with lots of features.
 - [in-line calculator (AutoHotkey Calculator)](https://github.com/davebrny/in-line-calculator) - Interface-less calculator for Windows that lets you do basic math without having to leave the line you're typing on.
