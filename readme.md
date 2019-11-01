@@ -18,9 +18,9 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
   - [Communities](#communities)
   - [Tutorials](#tutorials)
   - [Videos](#videos)
-  
+
   ---
-  
+
 ## Calculator apps:
 
 ### Android
@@ -62,6 +62,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [mdlt](https://github.com/metadelta/mdlt) - Command-line utility for quick math.
 - [calc](https://github.com/alfredxing/calc) - Simple, fast and intuitive command-line calculator written in Go.
 - [J# Calculator Barebones](https://github.com/KrzysztofSzewczyk/JSharpCalculator) - Very simple calculator written in J#. Made as program for J# newcomers to extend and learn from.
+- [Qalculate!](https://qalculate.github.io/) - Cross-platform scientific calculator including unit/currency converters.
 
 ### Web
 - [Wolfram|Alpha](https://www.wolframalpha.com/) - Computational knowledge engine.
