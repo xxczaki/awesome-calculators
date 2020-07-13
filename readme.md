@@ -45,7 +45,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 
 ### Mac
 - [Numi](https://numi.io/) - Beautiful calculator with great features, including unit & time zone conversion.
-- [Soulver](http://www.acqualia.com/soulver/) - Do basic math operations using modern, clean interface without buttons.
+- [Soulver 3](https://soulver.app/) - Smart notepad with a built-in calculator.
 - [Calculator + ƒ](https://www.phnsft.com/products/calculator/) - Powerful, extensible calculator for the Mac.
 
 ### Linux
@@ -54,6 +54,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [x48](https://github.com/gwenhael-le-moine/x48) - Emulate the HP48GX/SX, one of the best engineering calculators ever.
 
 ### Cross-Platform
+- [Parsify Desktop](https://parsify.app) - Extendable calculator for the 21st Century.
 - [Simple Electron Calculator](https://github.com/DCKT/electron-calculator) - Basic, cross-platform calculator made with Electron.
 - [elcalc](https://github.com/xxczaki/elcalc) - Calculator with simple & beautiful interface.
 - [Material Design Calculator](https://github.com/lirios/calculator) - Cross-platform material design calculator.
