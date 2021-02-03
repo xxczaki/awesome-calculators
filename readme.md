@@ -63,6 +63,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [calc](https://github.com/alfredxing/calc) - Simple, fast and intuitive command-line calculator written in Go.
 - [J# Calculator Barebones](https://github.com/KrzysztofSzewczyk/JSharpCalculator) - Very simple calculator written in J#. Made as program for J# newcomers to extend and learn from.
 - [Qalculate!](https://qalculate.github.io/) - Cross-platform scientific calculator including unit/currency converters.
+- [Free42](https://thomasokken.com/free42/) - A complete re-implementation of the HP-42S Scientific Programmable Calculator
 
 ### Web
 - [Wolfram|Alpha](https://www.wolframalpha.com/) - Computational knowledge engine.
