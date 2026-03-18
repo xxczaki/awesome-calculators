@@ -69,6 +69,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Web 2.0 Scientific Calculator](http://web2.0calc.com/) - Online calculator, that provides basic and advanced mathematical functions useful for school or college.
 - [Calculator.js](https://material-calculator.netlify.com/) - Open-Source, web calculator with beautiful Google Material Design interface.
 - [Notepad Calculator](http://notepadcalculator.com/) - Calculator with user-friendly, unique notepad interface.
+- [SorryClub](https://sorryclub.com) - 40+ free financial and productivity calculators with dark mode UI. Includes FIRE, mortgage, compound interest, tax, and budget tools.
 - [Calculator.net](http://www.calculator.net/) - Huge collection of various calculators.
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
