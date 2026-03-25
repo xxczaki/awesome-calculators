@@ -67,6 +67,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 ### Web
 - [Wolfram|Alpha](https://www.wolframalpha.com/) - Computational knowledge engine.
 - [Web 2.0 Scientific Calculator](http://web2.0calc.com/) - Online calculator, that provides basic and advanced mathematical functions useful for school or college.
+- [Boring Math](https://boring-math.com/) - 120+ free calculators for finance, tax, health, home improvement, and lifestyle decisions. All client-side, no signup required.
 - [Calculator.js](https://material-calculator.netlify.com/) - Open-Source, web calculator with beautiful Google Material Design interface.
 - [Notepad Calculator](http://notepadcalculator.com/) - Calculator with user-friendly, unique notepad interface.
 - [Calculator.net](http://www.calculator.net/) - Huge collection of various calculators.
