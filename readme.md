@@ -73,6 +73,9 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
+- [Calculator Body](https://calculatorbody.com) - Health calculators including BMI, calorie, and macro calculators.
+- [Online Calc AI](https://onlinecalcai.com) - AI-powered online calculators for various use cases.
+- [How Much To Start A Business](https://howmuchtostartabusiness.com) - Startup cost calculator covering 350+ industries.
 
 ## Resources
 
