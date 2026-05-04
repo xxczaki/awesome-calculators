@@ -73,6 +73,10 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
+- [PTO Calculator](https://pto-calc.com/) - Calculate PTO accrual, balance, and state-by-state termination payout for US employees.
+- [Pay Raise Calculator](https://payraise-calc.com/) - See your new salary, after-tax take-home, and whether your raise beats inflation.
+- [Cap Rate Calculator](https://caprate-calc.com/) - Real-estate cap rate calculator with NOI builder and benchmarks by property type and market.
+- [Equity Dilution Calculator](https://equitydilution-calculator.com/) - Cap-table modeling: SAFE conversions, option-pool shuffle, and multi-round waterfall.
 
 ## Resources
 
