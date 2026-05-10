@@ -74,6 +74,14 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
 
+- [Levyio](https://levyio.com/) - Free US tax calculators by state and city (income, property, sales). 2026 IRS-aligned methodology. Cites BLS, IRS, Tax Foundation.
+- [Amortio](https://www.amortio.com/) - Free mortgage calculators using Freddie Mac PMMS rate data. PITI breakdown, FHA/VA/USDA loan eligibility.
+- [Hammerio](https://hammerio.com/) - Free construction cost calculators by US city using BLS Construction Wages. 100+ project types.
+- [Calorique](https://calorique.io/) - Free nutrition calculators (TDEE, BMR, macros) using Mifflin-St Jeor and Compendium of Physical Activities.
+- [Degreecalc](https://degreecalc.com/) - Free college cost and ROI calculators using IPEDS data, College Scorecard, FAFSA estimator.
+- [Jouleio](https://jouleio.com/) - Free solar payback calculators using NREL PVWatts data and EIA state utility rates.
+- [Salario](https://salario.io/) - Free US salary calculator by city × occupation using BLS OEWS data. Cost-of-living adjusted take-home pay.
+
 ## Resources
 
 ### Communities
@@ -101,5 +109,3 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Antoni Kepinski](https://akepinski.me) has waived all copyright and related or neighboring rights to this work.
-
-
