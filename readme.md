@@ -73,6 +73,8 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
+- [Mac PPI Calculator & Retina Checker](https://retinadesk.com/tools/ppi-calculator/) - Calculates a monitor's pixel density and whether it renders Retina-sharp on macOS, with a HiDPI scaling preview.
+- [Mac Cable Bandwidth Calculator](https://retinadesk.com/tools/cable-bandwidth-calculator/) - Calculates whether a USB-C, HDMI, DisplayPort, or Thunderbolt cable has the bandwidth for 4K120, 5K60, or 6K.
 
 ## Resources
 
