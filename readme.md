@@ -72,6 +72,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Calculator.net](http://www.calculator.net/) - Huge collection of various calculators.
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
+- [DiamondScope](https://naturaldiamond.co.za/diamondscope/) - Free South African diamond pricing tool. Enter any spec or paste a chain-retail quote and the tool reverse-engineers the Rapaport-equivalent baseline and shows the same stone's expected price at manufacturer-direct, boutique, and chain retail. Live recompute, no signup.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
 
 ## Resources
