@@ -73,6 +73,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
+- [Acalcia](https://acalcia.com) - Free, no-signup money and tax calculators for freelancers, online sellers, and creators (self-employment tax, marketplace fees, pricing, invoicing), running in the browser.
 
 ## Resources
 
