@@ -73,7 +73,8 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
-
+- [Calcula.live](https://calcula.live) - Multi-language calculator platform (English/Romanian/Turkish) with 209+ tools including country-specific salary, tax and VAT calculators for the UK, Romania and Turkey, plus AdSense and AdMob revenue estimators.
+  
 ## Resources
 
 ### Communities
