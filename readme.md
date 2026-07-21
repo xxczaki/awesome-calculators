@@ -73,6 +73,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
+- [Calculadora de Custo Real de Eletrônicos](https://torado.store/ferramentas/calculadora-custo-real/) - Open-Source, ferramenta gratuita que calcula o custo real de eletrônicos (preço + energia) por ano. Código-fonte: [Jailtonfonseca/calculadora-custo-real](https://github.com/Jailtonfonseca/calculadora-custo-real)
 
 ## Resources
 
