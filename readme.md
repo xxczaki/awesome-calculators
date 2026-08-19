@@ -73,6 +73,9 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
+- [DateCalx](https://datecalx.com/) - Free online date and time calculators for date differences, age, business days, countdowns, and more.
+- [Date Difference Calculator](https://datecalx.com/date-difference) - Calculate the exact difference between two dates in days, weeks, months, and years.
+- [Pregnancy Due Date Calculator](https://datecalx.com/pregnancy-due-date-calculator) - Estimate due dates from LMP, conception, or IVF transfer dates.
 
 ## Resources
 
