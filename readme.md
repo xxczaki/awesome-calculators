@@ -73,6 +73,9 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
+- [WattsCalc](https://wattscalc.com/) - Free wattage and electricity cost calculator for appliances and devices.
+- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com/) - Free lawn mowing cost estimates by area, rate, and extras.
+- [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com/) - Free pricing calculator for embroidery jobs (stitches, fabric, labor).
 
 ## Resources
 
