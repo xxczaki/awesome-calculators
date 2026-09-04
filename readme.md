@@ -70,6 +70,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Calculator.js](https://material-calculator.netlify.com/) - Open-Source, web calculator with beautiful Google Material Design interface.
 - [Notepad Calculator](http://notepadcalculator.com/) - Calculator with user-friendly, unique notepad interface.
 - [Calculator.net](http://www.calculator.net/) - Huge collection of various calculators.
+- [Numeros](https://www.numeros.pro/) - Online collection of 400+ calculators (finance, health, math, engineering, construction) that show their formulas and worked examples. No sign-up.
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
