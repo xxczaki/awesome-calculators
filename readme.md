@@ -73,6 +73,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
+- [Hours of Work Calculator](https://alice51849.github.io/ios-app-guide/tools/hours-of-work-calculator.html) - Turns a price into the work time it costs, from your own take-home pay, tax rate and paid hours; runs entirely in the browser and stores nothing.
 
 ## Resources
 
