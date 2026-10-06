@@ -73,6 +73,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
+- [ComprarSeguidoresIG.es Engagement Rate Calculator (Spanish)](https://comprarseguidoresig.es/tools/engagement-rate) - Free browser calculator for likes plus comments as a percentage of followers, reach, or views, with a documented method and no account or profile lookup.
 
 ## Resources
 
@@ -101,5 +102,4 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Antoni Kepinski](https://akepinski.me) has waived all copyright and related or neighboring rights to this work.
-
 
