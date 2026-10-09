@@ -41,6 +41,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [in-line calculator (AutoHotkey Calculator)](https://github.com/davebrny/in-line-calculator) - Interface-less calculator for Windows that lets you do basic math without having to leave the line you're typing on.
 - [Old Windows 7/8 Calculator in Windows 10](https://winaero.com/download.php?view.1795) - Opportunity to use old Windows 7/8 calculator in Windows 10.
 - [GraphCal](http://www.graphcalc.com/) - Professional calculator with unique features.
+- [Super Calculator](https://github.com/aivrar/scientific-calculator) - Portable scientific calculator with a computer algebra system, 2D/3D plotting, a CSV data lab and interactive math visualizations, in a single .exe.
 
 ### Mac
 - [Numi](https://numi.io/) - Beautiful calculator with great features, including unit & time zone conversion.
