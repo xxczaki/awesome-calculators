@@ -74,6 +74,8 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
 
+- [HoursCounter](https://hourscounter.com/) - Free weekly and biweekly time card calculators for work hours, breaks, overtime, and estimated gross pay, with CSV and printable reports.
+
 ## Resources
 
 ### Communities
