@@ -65,6 +65,8 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Qalculate!](https://qalculate.github.io/) - Cross-platform scientific calculator including unit/currency converters.
 
 ### Web
+
+- [Needle Factory Planner](https://needlefactoryplanner.site/) - Browser calculator for a serial line's bottleneck and steady capacity using your own rates, with explicit batch-time limits.
 - [Wolfram|Alpha](https://www.wolframalpha.com/) - Computational knowledge engine.
 - [Web 2.0 Scientific Calculator](http://web2.0calc.com/) - Online calculator, that provides basic and advanced mathematical functions useful for school or college.
 - [Calculator.js](https://material-calculator.netlify.com/) - Open-Source, web calculator with beautiful Google Material Design interface.
