@@ -74,6 +74,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
 
+- [WhatsApp Lead Recovery Kit — Revenue-at-Risk Calculator](https://testimonioslr-eng.github.io/whatsapp-lead-recovery-kit/calculator.html) - Free browser calculator that estimates how much revenue a small business risks losing by answering WhatsApp leads slowly. Inputs: weekly leads, ticket, fast-close rate, response speed; outputs weekly and annual revenue-at-risk. All client-side, no signup, no email, no tracking. Open source (MIT).
 ## Resources
 
 ### Communities
