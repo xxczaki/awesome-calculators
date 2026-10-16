@@ -70,6 +70,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Calculator.js](https://material-calculator.netlify.com/) - Open-Source, web calculator with beautiful Google Material Design interface.
 - [Notepad Calculator](http://notepadcalculator.com/) - Calculator with user-friendly, unique notepad interface.
 - [Calculator.net](http://www.calculator.net/) - Huge collection of various calculators.
+- [2027 COLA / VA Disability Calculator](https://colacalculator2027.com/va-cola-2027-calculator/) - Free 2027 COLA calculator for VA disability rates, Social Security, FERS, and SSI (official 3.6% COLA).
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
