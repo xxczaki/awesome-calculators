@@ -73,6 +73,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
+- [Hexvan trade calculators](https://hexvan.com/tools) - Free calculators for builders and trades: concrete, bricks, tiles, paint, roof pitch, voltage drop, BTU and more.
 
 ## Resources
 
