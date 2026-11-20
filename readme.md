@@ -65,6 +65,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Qalculate!](https://qalculate.github.io/) - Cross-platform scientific calculator including unit/currency converters.
 
 ### Web
+- [Affi-Chain](https://www.affichain.com/) - 224+ zero-latency, 100% client-side precision calculators and developer utilities.
 - [Wolfram|Alpha](https://www.wolframalpha.com/) - Computational knowledge engine.
 - [Web 2.0 Scientific Calculator](http://web2.0calc.com/) - Online calculator, that provides basic and advanced mathematical functions useful for school or college.
 - [Calculator.js](https://material-calculator.netlify.com/) - Open-Source, web calculator with beautiful Google Material Design interface.
