@@ -72,7 +72,8 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Calculator.net](http://www.calculator.net/) - Huge collection of various calculators.
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
-- [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
+- [Geogebra](https://www.geogebra.org/)
+- [SmartBizCalc](https://smartbizcalc.com) - 700+ free small-business financial calculators covering self-employment tax, payroll, 1099 vs W-2, break-even analysis, startup costs, and contractor pricing. No sign-up required.
 
 ## Resources
 
@@ -101,5 +102,3 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Antoni Kepinski](https://akepinski.me) has waived all copyright and related or neighboring rights to this work.
-
-
