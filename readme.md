@@ -73,8 +73,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/)
-- [SmartBizCalc](https://www.smartbizcalc.com/) - 700+ free US small business calculators: self-employment tax, payroll, contractor pricing, break-even, LLC vs S-Corp, startup costs, and more. - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
-- [SmartBizCalc](https://smartbizcalc.com/) - Free collection of 259 business calculators for contractors, freelancers, and small business owners. Covers tax, payroll, pricing, break-even, insurance, and more.
+- [SmartBizCalc](https://smartbizcalc.com) - 700+ free small-business financial calculators covering self-employment tax, payroll, 1099 vs W-2, break-even analysis, startup costs, and contractor pricing. No sign-up required.
 
 ## Resources
 
