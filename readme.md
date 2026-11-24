@@ -73,6 +73,8 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
+- [GameScaled](https://gamescaled.com/) - Free web calculators for game economy planning, resource and upgrade costs, and progression tracking, with the formula and assumptions shown on each tool.
+- [BuildingsMath](https://buildingsmath.com/) - Free construction and building-materials calculators: concrete, gravel, mulch, lumber, roofing, tile and paint estimators, plus measurement converters.
 
 ## Resources
 
