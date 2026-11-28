@@ -73,6 +73,9 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
+- [Epoxy Garage Floor Cost Calculator](https://epoxygaragefloorcost.com/) - Interactive garage floor square-footage and DIY vs contractor epoxy cost estimator.
+- [AI SEO Pricing Calculator](https://aiseopricing.com/) - Interactive yearly SEO budget calculator comparing software, freelancers, and agencies.
+- [SEO Package Price Calculator](https://seopackageprice.com/) - Client-side monthly SEO package price builder based on deliverables and scope.
 
 ## Resources
 
